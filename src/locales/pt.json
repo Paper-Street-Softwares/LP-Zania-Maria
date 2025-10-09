@@ -18,41 +18,41 @@
   },
   "hero": {
     "miniTag": "ESTÚDIO DE BELEZA EM FORTALEZA - CE",
-    "title": "Você já se olhou <span class=\"text-primary font-bold\">no espelho hoje?</span>",
-    "subtitle": "Descubra como pequenos cuidados podem mudar seu olhar, sua pele e até sua autoestima.",
-    "ctaButtonText": "Quero me sentir diferente",
+    "title": "Você quer se destacar como <span class=\"text-primary font-bold\">cabeleireira?</span>",
+    "subtitle": "Aprenda técnicas exclusivas que elevam seu talento e transformam sua carreira na beleza.",
+    "ctaButtonText": "Quero aprimorar minhas habilidades",
     "obsHero": {
-      "text": "Atendimento online: Transforme sua beleza sem precisar sair de casa."
+      "text": "Aulas online: Aprenda com quem transforma carreiras sem sair de casa."
     }
   },
   "features": {
     "miniTag": "Nossas Especialidades",
-    "title": "Tudo o que você precisa pra se sentir ainda mais linda",
-    "subtitle": "Do cabelo à pele, cuidamos de você com carinho, sem pesar no bolso.",
+    "title": "Tudo o que você precisa para se tornar uma profissional de destaque",
+    "subtitle": "Do corte à coloração, aprenda técnicas práticas que elevam sua carreira e impressionam suas clientes.",
     "card1": {
-      "title": "Cuidados Capilares Premium",
-      "subtitle": "Tratamentos, coloração, corte e escova para fios saudáveis e radiantes.",
+      "title": "Técnicas Avançadas em Cuidados Capilares",
+      "subtitle": "Aprenda corte, coloração, escova e tratamentos que deixam os fios saudáveis e radiantes.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "Estética Facial Avançada",
-      "subtitle": "Limpezas de pele, peeling, tratamentos anti-idade e revitalização.",
+      "title": "Estética Facial Profissional",
+      "subtitle": "Domine limpezas de pele, peeling, tratamentos anti-idade e revitalização para suas clientes.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "Beleza das Mãos e Pés",
-      "subtitle": "Manicure, pedicure, unhas decoradas e cuidados especiais.",
+      "title": "Beleza de Mãos e Pés",
+      "subtitle": "Aperfeiçoe técnicas de manicure, pedicure, unhas decoradas e cuidados especiais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "Embelezamento do Olhar & Sobrancelha",
-      "subtitle": "Design de sobrancelhas, alongamento de cílios, lifting e realce do olhar.",
+      "title": "Olhar e Sobrancelhas Perfeitas",
+      "subtitle": "Aprenda design de sobrancelhas, alongamento de cílios, lifting e realce do olhar.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -85,16 +85,16 @@
     },
     "miniTag": "QUEM É ZÂNIA NEPOMUCENO",
     "title": "Minha trajetória",
-    "subtitle": "De aprendiz curiosa a profissional dedicada, minha paixão sempre foi a beleza.",
+    "subtitle": "De aprendiz curiosa a profissional dedicada, ensino outras cabeleireiras com paixão.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "Desde muito jovem, descobri na beleza uma forma de transformar a autoestima das pessoas. A cada curso e experiência, percebi que esse era o caminho que eu queria seguir. <br/><br/> Com dedicação e esforço, fui me especializando em cuidados capilares, estética e bem-estar. Cada cliente que atendia se tornava uma inspiração para continuar crescendo. <br/><br/> Hoje, levo comigo a missão de mostrar que cuidar de si mesma não precisa ser um luxo. Meu trabalho é oferecer qualidade, carinho e resultado para todas as mulheres.",
+    "paragraph": "Desde jovem, descobri que a beleza podia transformar a autoestima das pessoas. Com cada curso e experiência, percebi que meu verdadeiro caminho era compartilhar esse conhecimento. <br/><br/> Dediquei-me a me especializar em cuidados capilares, estética e técnicas avançadas de beleza.Hoje, ensino outras profissionais a aperfeiçoarem suas habilidades e a conquistarem clientes com confiança e excelência. <br/><br/> Minha missão é mostrar que qualquer cabeleireira pode oferecer resultados incríveis, qualidade e carinho em cada atendimento, elevando sua carreira sem complicações.",
     "modal": "",
     "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "REDES SOCIAIS",
       "title": "Conecte-se agora mesmo",
-      "subtitle": "Acompanhe nossas redes sociais e fique por dentro de dicas, novidades e tendências do mundo da beleza",
+      "subtitle": "Acompanhe nossas redes sociais e fique por dentro de dicas, novidades e tendências do mundo da beleza.",
       "labelInstagram": "Siga-nos no Instagram",
       "labelFacebook": "Siga-nos no Facebook",
       "labelLinkedin": "Siga-nos no Linkedin",
@@ -108,7 +108,7 @@
     "description": "A_Definir"
   },
   "ctaSecondary": {
-    "title": "<span class=\"text-black font-bold\">Não está feliz com seu visual?</span><span class=\"text-primary font-bold\">Deixe que a gente cuida disso pra você!</span>",
+    "title": "<span class=\"text-black font-bold\">Quer aprimorar suas habilidades como cabeleireira?</span><span class=\"text-primary font-bold\"> Vamos te ajudar a crescer na profissão!</span>",
     "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
     "titleDireita": "WhatsApp",
     "ctaButtonText": "Entre em Contato"
@@ -121,22 +121,22 @@
       "card1": {
         "stepNumber": 1,
         "cardTitle": "Atendimento inicial",
-        "cardDescription": "Conversamos com você para entender seus desejos e o resultado que espera alcançar."
+        "cardDescription": "Conversamos com você para entender seus objetivos profissionais e o resultado que deseja alcançar como cabeleireira."
       },
       "card2": {
         "stepNumber": 2,
         "cardTitle": "Análise personalizada",
-        "cardDescription": "Avaliamos seus cabelos, pele ou necessidades estéticas para indicar o melhor cuidado."
+        "cardDescription": "Avaliamos seu nível atual, habilidades e necessidades de aprendizado para indicar o curso ou técnica mais adequada."
       },
       "card3": {
         "stepNumber": 3,
         "cardTitle": "Definição do tratamento",
-        "cardDescription": "Montamos um plano de beleza pensado exclusivamente para você, de forma acessível e eficaz."
+        "cardDescription": "Montamos um plano de estudo e prática personalizado, pensado para acelerar sua evolução e destacar seu trabalho."
       },
       "card4": {
         "stepNumber": 4,
         "cardTitle": "Atendimento com carinho",
-        "cardDescription": "Realizamos o procedimento escolhido, sempre prezando pelo cuidado, bem-estar e sua autoestima."
+        "cardDescription": "Oferecemos aulas práticas e teóricas, com atenção individual, garantindo que você aprenda técnicas eficazes e conquiste confiança no atendimento às clientes."
       }
     }
   },
@@ -154,20 +154,20 @@
     "subtitle": "Confira as perguntas abaixo para esclarecer suas dúvidas.",
     "questions": {
       "question1": {
-        "question": "Quais serviços vocês oferecem e qual o mais indicado para mim?",
-        "answer": "Oferecemos tratamentos para cabelo, pele, unhas e estética facial. Na primeira consulta, avaliamos suas necessidades e indicamos o serviço ideal pra você."
+        "question": "Quais cursos vocês oferecem e qual é o mais indicado para mim?",
+        "answer": "Oferecemos cursos em cuidados capilares, estética facial, unhas e técnicas avançadas de beleza. Na primeira conversa, avaliamos seu nível e objetivos para indicar o curso ideal."
       },
       "question2": {
-        "question": "Qual o custo e por que os preços variam?",
-        "answer": "O valor depende do tipo de serviço e da duração do tratamento. Na consulta, explicamos cada opção e montamos um plano que cabe no seu bolso."
+        "question": "Qual o investimento e por que os valores variam?",
+        "answer": "O valor depende do curso, carga horária e técnicas incluídas. Explicamos cada opção e montamos um plano que cabe no seu orçamento e expectativas."
       },
       "question3": {
-        "question": "Qual a duração do tratamento e quando verei resultados?",
-        "answer": "Alguns resultados aparecem na primeira sessão, outros precisam de acompanhamento. Na consulta, passamos uma previsão realista do tempo e das etapas."
+        "question": "Qual a duração do curso e quando verei resultados?",
+        "answer": "Alguns aprendizados são aplicáveis imediatamente, outros exigem prática contínua. Durante a orientação, informamos uma previsão realista de tempo e evolução."
       },
       "question4": {
-        "question": "Que cuidados preciso ter antes e depois do serviço?",
-        "answer": "Damos todas as orientações para você manter o resultado em casa, desde produtos certos até hábitos diários que ajudam a prolongar os efeitos do tratamento."
+        "question": "Que cuidados preciso ter antes e depois das aulas?",
+        "answer": "Fornecemos todas as orientações sobre materiais, práticas e hábitos que ajudam a consolidar suas habilidades e aplicar as técnicas com segurança e eficiência."
       }
     },
     "paragraph": "Clique aqui caso tenha mais dúvidas"
